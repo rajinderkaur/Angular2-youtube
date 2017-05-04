@@ -38,7 +38,7 @@ h1 {
   width: 100%;
   max-width: 1345px;
   margin: 0 auto;
-  padding: 0;
+  padding: 30px 0;
   background: #ffffff;
 }
 header{
@@ -104,4 +104,18 @@ nav ul li a:hover{
     width: auto;
     margin: 0 3%;
   }
+}
+
+#container .main{
+
+  display: block;
+
+  margin: 35px 0;
+  padding: 0 10px;
+}
+footer{
+  background: #010000;
+  color: #ffffff;
+  min-height: 300px;
+
 }
